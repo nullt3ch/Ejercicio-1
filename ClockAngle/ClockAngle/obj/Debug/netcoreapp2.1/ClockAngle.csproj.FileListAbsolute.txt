@@ -1,0 +1,11 @@
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\bin\Debug\netcoreapp2.1\ClockAngle.deps.json
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\bin\Debug\netcoreapp2.1\ClockAngle.runtimeconfig.json
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\bin\Debug\netcoreapp2.1\ClockAngle.runtimeconfig.dev.json
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\bin\Debug\netcoreapp2.1\ClockAngle.dll
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\bin\Debug\netcoreapp2.1\ClockAngle.pdb
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\obj\Debug\netcoreapp2.1\ClockAngle.csprojAssemblyReference.cache
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\obj\Debug\netcoreapp2.1\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\obj\Debug\netcoreapp2.1\ClockAngle.AssemblyInfoInputs.cache
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\obj\Debug\netcoreapp2.1\ClockAngle.AssemblyInfo.cs
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\obj\Debug\netcoreapp2.1\ClockAngle.dll
+C:\Users\Hugo-ASUS\source\repos\ClockAngle\ClockAngle\obj\Debug\netcoreapp2.1\ClockAngle.pdb
