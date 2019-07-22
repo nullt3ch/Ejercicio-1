@@ -1,0 +1,11 @@
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\obj\Debug\netcoreapp2.1\ConvertRoman.csprojAssemblyReference.cache
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\obj\Debug\netcoreapp2.1\ConvertRoman.csproj.CoreCompileInputs.cache
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\obj\Debug\netcoreapp2.1\ConvertRoman.AssemblyInfoInputs.cache
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\obj\Debug\netcoreapp2.1\ConvertRoman.AssemblyInfo.cs
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\bin\Debug\netcoreapp2.1\ConvertRoman.deps.json
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\bin\Debug\netcoreapp2.1\ConvertRoman.runtimeconfig.json
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\bin\Debug\netcoreapp2.1\ConvertRoman.runtimeconfig.dev.json
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\bin\Debug\netcoreapp2.1\ConvertRoman.dll
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\bin\Debug\netcoreapp2.1\ConvertRoman.pdb
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\obj\Debug\netcoreapp2.1\ConvertRoman.dll
+C:\Users\Hugo-ASUS\source\repos\ConvertRoman\ConvertRoman\obj\Debug\netcoreapp2.1\ConvertRoman.pdb

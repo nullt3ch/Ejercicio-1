@@ -1,0 +1,11 @@
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.1\Anagram.deps.json
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.1\Anagram.runtimeconfig.json
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.1\Anagram.runtimeconfig.dev.json
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.1\Anagram.dll
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.1\Anagram.pdb
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.1\Anagram.csprojAssemblyReference.cache
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.1\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.1\Anagram.AssemblyInfoInputs.cache
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.1\Anagram.AssemblyInfo.cs
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.1\Anagram.dll
+C:\Users\Hugo-ASUS\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.1\Anagram.pdb
