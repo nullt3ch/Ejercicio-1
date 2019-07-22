@@ -1,0 +1,11 @@
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\bin\Debug\netcoreapp2.1\SwapInteger.deps.json
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\bin\Debug\netcoreapp2.1\SwapInteger.runtimeconfig.json
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\bin\Debug\netcoreapp2.1\SwapInteger.runtimeconfig.dev.json
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\bin\Debug\netcoreapp2.1\SwapInteger.dll
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\bin\Debug\netcoreapp2.1\SwapInteger.pdb
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\obj\Debug\netcoreapp2.1\SwapInteger.csprojAssemblyReference.cache
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\obj\Debug\netcoreapp2.1\SwapInteger.csproj.CoreCompileInputs.cache
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\obj\Debug\netcoreapp2.1\SwapInteger.AssemblyInfoInputs.cache
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\obj\Debug\netcoreapp2.1\SwapInteger.AssemblyInfo.cs
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\obj\Debug\netcoreapp2.1\SwapInteger.dll
+C:\Users\Hugo-ASUS\source\repos\SwapInteger\SwapInteger\obj\Debug\netcoreapp2.1\SwapInteger.pdb
