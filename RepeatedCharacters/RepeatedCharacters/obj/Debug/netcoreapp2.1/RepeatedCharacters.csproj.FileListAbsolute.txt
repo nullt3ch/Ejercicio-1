@@ -1,0 +1,11 @@
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\bin\Debug\netcoreapp2.1\RepeatedCharacters.deps.json
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\bin\Debug\netcoreapp2.1\RepeatedCharacters.runtimeconfig.json
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\bin\Debug\netcoreapp2.1\RepeatedCharacters.runtimeconfig.dev.json
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\bin\Debug\netcoreapp2.1\RepeatedCharacters.dll
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\bin\Debug\netcoreapp2.1\RepeatedCharacters.pdb
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\obj\Debug\netcoreapp2.1\RepeatedCharacters.csprojAssemblyReference.cache
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\obj\Debug\netcoreapp2.1\RepeatedCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\obj\Debug\netcoreapp2.1\RepeatedCharacters.AssemblyInfoInputs.cache
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\obj\Debug\netcoreapp2.1\RepeatedCharacters.AssemblyInfo.cs
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\obj\Debug\netcoreapp2.1\RepeatedCharacters.dll
+C:\Users\Hugo-ASUS\source\repos\RepeatedCharacters\RepeatedCharacters\obj\Debug\netcoreapp2.1\RepeatedCharacters.pdb
